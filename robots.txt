@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://scndhnd.github.io/sitemap/sitemap.txt
